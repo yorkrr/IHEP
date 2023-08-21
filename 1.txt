@@ -3,3 +3,4 @@ I changed it twice
 I changed it third.
 Now I vimmed it on Second_Branch.
 But I forgot to commit.
+Now I finished the final work and want to merge it with the branch:main,but it has been changed by branch:hotfix. So this branch is still point to main which is n not changed by hotfix?maybe it can be autoly check.
