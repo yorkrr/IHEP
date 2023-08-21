@@ -2,3 +2,4 @@ I changed something.
 I changed it twice
 I changed it third.
 Unbelievable! It still contain the initail state!
+Now I fix a problem from the branch:fotfix.
