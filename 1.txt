@@ -1,5 +1,14 @@
 I changed something.
 I changed it twice
 I changed it third.
+
 Unbelievable! It still contain the initail state!
 Now I fix a problem from the branch:fotfix.
+
+Now I vimmed it on Second_Branch.
+But I forgot to commit.
+Now I finished the final work and want to merge it with the branch:main,but it has been changed by branch:hotfix. So this branch is still point to main which is n not changed by hotfix?maybe it can be automaticly check.
+In fact, there is a conflict as I both modified the 1.txt.
+Now I conserve all.
+
+
